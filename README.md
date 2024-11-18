@@ -28,8 +28,9 @@ Developed by : PRASANTH E
 Register no  : 212221233002
 ```
 ``` Python
+
 # Get the input String
-string ="SACHIN"
+string ="PRASANTH"
 
 # Create tree nodes
 class NodeTree(object):
@@ -79,7 +80,9 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![image](https://github.com/user-attachments/assets/5d4224cc-4a7e-4840-a659-15083cdfb7fc)
+
+<img width="180" alt="Screenshot 2024-11-18 at 06 47 31" src="https://github.com/user-attachments/assets/af48e61c-1b5a-4b3f-87b9-0f174f473009">
+
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
